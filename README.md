@@ -6,7 +6,7 @@
   
 😇 I am Siddharth Mallah✋,                         
 
-A tech-enthusiast and an developer💻. 
+A tech-enthusiast and an Developer💻. 
 
 I am an inquisitive and energetic computer science student full of useful leadership skills and a strong foundation in mathematics, programming and logic. 
 
