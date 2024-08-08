@@ -24,6 +24,10 @@ I hope to leverage my solid development skills while focusing on collaboration, 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![Snake animation](https://raw.githubusercontent.com/Mrutunjay113/Mrutunjay113/output/github-contribution-grid-snake-dark.svg)
+
+<img align="left" src="https://profile-counter.glitch.me/Sid30502/count.svg?"  />
+
+###
 <!--
 **Sid30502/Sid30502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
