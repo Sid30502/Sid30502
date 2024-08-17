@@ -26,8 +26,10 @@ I hope to leverage my solid development skills while focusing on collaboration, 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Snake animation](https://raw.githubusercontent.com/Mrutunjay113/Mrutunjay113/output/github-contribution-grid-snake-dark.svg) 
-
+<br clear="both">
+  <img src="https://raw.githubusercontent.com/Sid30502/Sid30502/output/snake.svg" alt="Snake animation" />
+  
+###
 <img align="left" src="https://profile-counter.glitch.me/Sid30502/count.svg?"  />
 
 ###
