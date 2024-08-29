@@ -8,7 +8,7 @@
  
 🌱 I’m currently learning Reactjs, Restful API, Bootstrap, Tailwind CSS and many more...
 
-I am an inquisitive and energetic computer science student full of useful leadership skills and a strong foundation in mathematics, programming and logic. 
+I am an inqusitive and energetic computer science student full of useful leadership skills and a strong foundation in mathematics, programming and logic. 
 
 I hope to leverage my solid development skills while focusing on collaboration, passion and creativity into an engineering role that allows me to create engaging projects with beautiful user experience.
 
